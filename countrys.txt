@@ -1,0 +1,25 @@
+Germany~Berlin
+France~Paris
+India~New Delhi
+Australia~Canberra
+United States~Washington, D.C.
+Ukraine~Kyiv
+China~Beijing
+Argentina~Buenos Aires
+Spain~Madrid
+Japan~Tokyo
+Mexico~Mexico City
+South Korea~Seoul
+Turkey~Ankara
+Nigeria~Abuja
+Saudi Arabia~Riyadh
+Egypt~Cairo
+Greece~Athens
+Italy~Rome
+Kenya~Nairobi
+South Africa~Pretoria
+Ghana~Accra
+United Kingdom~London
+United Arab Emirates~Abu Dhabi
+Canada~Ottawa
+Brazil~Brasília
